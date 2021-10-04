@@ -9,8 +9,7 @@ const FooterSection = () => {
           <div class="col-lg-5 col-xs-12 about-company">
             <h2>Medical</h2>
             <p class="pr-5 text-white-50">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac
-              ante mollis quam tristique convallis{" "}
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
             </p>
             <p>
               <a href="#">
