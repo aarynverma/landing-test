@@ -9,7 +9,7 @@ const HeroSection = () => {
         <div className="head1">
           {" "}
           <b>
-            Best Outcome For <br />
+            We will give best Outcome For <br />
             Every Patient Every <br />
             Time
           </b>
